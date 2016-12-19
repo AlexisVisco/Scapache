@@ -1,4 +1,4 @@
-package Japache;
+package fr.kwizzy.japache;
 
 import java.io.IOException;
 import java.nio.channels.AsynchronousSocketChannel;
