@@ -1,4 +1,4 @@
-package fr.kwizzy.webserver
+package fr.kwizzy.scapache
 
 import java.nio.ByteBuffer
 import java.nio.channels.{AsynchronousSocketChannel, CompletionHandler}

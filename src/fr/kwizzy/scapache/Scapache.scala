@@ -1,4 +1,4 @@
-package fr.kwizzy.webserver
+package fr.kwizzy.scapache
 
 import java.net.InetSocketAddress
 import java.nio.channels.AsynchronousServerSocketChannel
